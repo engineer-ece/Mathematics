@@ -1,4 +1,10 @@
 a{
   text-decoration:none;
-  color: orange;
+  font-size:40px;
+  font-weight:bold;
+  width:100%;
+  border: 10px ridge blue;
+}
+a:hover{
+  border: 10px groove green;
 }
