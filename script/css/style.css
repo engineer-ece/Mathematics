@@ -3,6 +3,7 @@ a{
   font-size:40px;
   font-weight:bold;
   width:100%;
+  display:flex;
   border: 10px ridge blue;
 }
 a:hover{
