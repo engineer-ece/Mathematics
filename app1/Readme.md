@@ -1,4 +1,4 @@
-# MathUnicode
+# MathUnicode (support Ubuntu 64 bit)
 
 ```
 sudo su
