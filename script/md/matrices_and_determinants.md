@@ -20,7 +20,7 @@
            2. [example 1.2]()
         10. [transpose of a matrix]()
         11. [multiplication of a matrix by a scalar]()
-           0. [Note:]()
+            0. [Note:]()
         12. [negative of a matrix]()
      4. [operations on matrices]()
         1. [addition and subtraction]()
