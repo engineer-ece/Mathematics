@@ -1,6 +1,6 @@
 # Mathematics
 
-1. [Matrices and Determinants]('script/md/matrices_and_determinants.md')
+1. [Matrices and Determinants](https://github.com/engineer-ece/Mathematics/blob/master/script/md/matrices_and_determinants.md)
 2. Vector Algebra + 1
 3. Algebra
 4. Sequence and Series
